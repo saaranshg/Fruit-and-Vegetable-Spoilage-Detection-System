@@ -35,11 +35,7 @@ Beyond its technological marvels, this system stands as a **champion of sustaina
 ## Prototype
 
 ![Prototype](https://github.com/saaranshg/Fruit-and-Vegetable-Spoilage-Detection-System/blob/main/Basic%20Prototype.jpg?raw=true "Basic Prototype")
-
-(Prototype-2.png)
-
-
-
+![Prototype 2](https://github.com/saaranshg/Fruit-and-Vegetable-Spoilage-Detection-System/blob/main/Prototype-2.jpg?raw=true "Sensor Fusion")
 
 ## 🎉 Conclusion: Welcome to the Future of Freshness
 
