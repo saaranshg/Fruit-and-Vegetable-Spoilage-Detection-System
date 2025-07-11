@@ -34,7 +34,7 @@ Beyond its technological marvels, this system stands as a **champion of sustaina
 
 ## Prototype
 
-![Prototype](https://github.com/saaranshg/Fruit-and-Vegetable-Spoilage-Detection-System/main/Basic Prototype.png?raw=true)
+![Prototype](https://github.com/saaranshg/Fruit-and-Vegetable-Spoilage-Detection-System/main/BasicPrototype.png?raw=true)
 
 (Prototype-2.png)
 
